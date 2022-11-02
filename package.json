@@ -18,7 +18,7 @@
     "lodash": "^4.17.11",
     "native-base": "^2.8.1",
     "react": "16.6.1",
-    "react-native": "0.57.5",
+    "react-native": "0.70.4",
     "react-native-anime": "0.0.47",
     "react-native-carousel-view": "^0.5.1",
     "react-native-device-info": "^0.22.6",
